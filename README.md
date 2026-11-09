@@ -1,11 +1,13 @@
 # Telemetry Tester for SimHub
 
-**By DIRTYNUT** · v1.0
+**By DIRTYNUT** · v1.1
 
 A SimHub plugin for testing dashes and LED profiles without driving. Flip flags, change gears, rev the engine, drain the fuel, damage the car and fake a car alongside you – all from a control panel inside SimHub.
 
 ## Download
-Grab `DirtySim.TelemetryTester.dll` from the [Releases](../../releases) page.
+Telemetry Tester is **free** and available exclusively on the **DIRTYNUT Discord**.
+
+👉 **[Join the DIRTYNUT Discord](https://discord.gg/TwagTfRfvJ)** and grab it from **#releases**. You'll also get setup help, new dashes, and a chance to earn the Crew role for early test builds.
 
 ## Install
 1. Close SimHub.
